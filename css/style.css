@@ -148,7 +148,7 @@ main .grid {
   aspect-ratio: 2 / 1;
 }
 
-.instagram-embeds {
+.instagram-embeds, .music-embeds {
   margin-top: 30px;
   overflow-x: auto;
 }
