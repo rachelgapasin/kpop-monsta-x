@@ -93,6 +93,10 @@ section {
   padding: 100px 0;
 }
 
+main .grid {
+  align-items: center;
+}
+
 .grid {
   display: grid;
   grid-gap: 60px;
